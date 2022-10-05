@@ -7,6 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+        <Button Content="Начать игру " HorizontalAlignment="Left" Margin="322,191,0,0" VerticalAlignment="Top" Width="132" Height="50"/>
+
     </Grid>
 </Window>
